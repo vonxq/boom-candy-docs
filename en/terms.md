@@ -92,9 +92,9 @@ We reserve the right to modify these Terms of Service at any time. Modified term
 
 If you have any questions about these Terms of Service, please contact us:
 
-**Email:** [Enter your contact email]
+**Email:** 1573470409@qq.com
 
-**Website:** [Enter your website address]
+**Website:** https://vonxq.github.io/boom-candy-docs/
 
 ---
 

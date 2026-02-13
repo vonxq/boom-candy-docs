@@ -59,9 +59,9 @@ We may update this privacy policy from time to time. Any significant changes wil
 
 If you have any questions about this privacy policy, please contact us:
 
-**Email:** [Enter your contact email]
+**Email:** 1573470409@qq.com
 
-**Website:** [Enter your website address]
+**Website:** https://vonxq.github.io/boom-candy-docs/
 
 ---
 
