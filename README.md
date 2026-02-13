@@ -9,10 +9,12 @@ docs/
 ├── index.html          # 主页（GitHub Pages）
 ├── zh/                 # 中文文档
 │   ├── privacy.md      # 隐私政策
-│   └── terms.md        # 服务条款
+│   ├── terms.md        # 服务条款
+│   └── support.md      # 技术支持
 └── en/                 # 英文文档
     ├── privacy.md      # Privacy Policy
-    └── terms.md        # Terms of Service
+    ├── terms.md        # Terms of Service
+    └── support.md      # Support
 ```
 
 ## 🌐 GitHub Pages
@@ -31,3 +33,5 @@ docs/
 - 英文隐私政策：`https://vonxq.github.io/boom-candy-docs/en/privacy.html`
 - 中文服务条款：`https://vonxq.github.io/boom-candy-docs/zh/terms.html`
 - 英文服务条款：`https://vonxq.github.io/boom-candy-docs/en/terms.html`
+- 中文技术支持：`https://vonxq.github.io/boom-candy-docs/zh/support.html`
+- 英文技术支持：`https://vonxq.github.io/boom-candy-docs/en/support.html`
